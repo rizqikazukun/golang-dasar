@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func constant() {
 	const fname string = "rizqi"
 	const lname = "pratama"
 

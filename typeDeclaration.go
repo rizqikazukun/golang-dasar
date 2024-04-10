@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func typedec() {
 	type NoKTP string // type alias
 
 	var no NoKTP = NoKTP("11111111")

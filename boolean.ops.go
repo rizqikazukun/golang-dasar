@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func boleanOps() {
 	var nilaiAkhir byte = 90
 	var absensi byte = 60
 

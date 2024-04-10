@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func strz() {
 	fmt.Println("Rizqi")
 	fmt.Println("Rizqi Pratama")
 	fmt.Println(len("Rizqi")) // character count

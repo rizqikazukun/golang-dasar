@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Arr() {
 	var names [2]string // golang array is length restricted
 
 	names[0] = "rizqi" // set array value
@@ -28,6 +28,13 @@ func main() {
 		"toyota",
 	} // this is how write array without length restriction
 
+	var motocycle = []string{
+		"honda",
+		"yamaha",
+		"suzuki",
+	} // this is slice it's not an array
+
 	fmt.Println(cars)
+	fmt.Println(motocycle)
 
 }
