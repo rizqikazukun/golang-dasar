@@ -38,3 +38,5 @@ func Arr() {
 	fmt.Println(motocycle)
 
 }
+
+var moe string = "Moeee"
